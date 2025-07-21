@@ -16,7 +16,7 @@ namespace HelloWorld
             Console.WriteLine("or "+(a | b));
             Console.WriteLine("xor "+(a ^ b));
             Console.WriteLine("not "+(a * b));
-            Console.WriteLine("negation ~ {a}"+(~a));
+            Console.WriteLine("negation ~ {a} "+(~a));
 
         }
     }
