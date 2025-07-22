@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WIPRO\\Wipro\\Day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|c:\\wipro\\wipro\\day2\\day2\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|solutionrelative:day2\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|c:\\wipro\\wipro\\day2\\day2\\max3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|solutionrelative:day2\\max3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|c:\\wipro\\wipro\\day2\\day2\\caseex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|solutionrelative:day2\\caseex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|c:\\wipro\\wipro\\day2\\day2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|solutionrelative:day2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|C:\\WIPRO\\Wipro\\Day2\\day2\\ctof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|solutionrelative:day2\\ctof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|C:\\WIPRO\\Wipro\\Day2\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8760ACD8-3822-4313-B480-575EA07E3D1E}|Day2\\Day2.csproj|c:\\wipro\\wipro\\day2\\day2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Voting.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\Day2\\Day2\\Voting.cs",
+              "RelativeDocumentMoniker": "Day2\\Voting.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\Day2\\Day2\\Voting.cs",
+              "RelativeToolTip": "Day2\\Voting.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:25:17.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Max3.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\Day2\\Day2\\Max3.cs",
+              "RelativeDocumentMoniker": "Day2\\Max3.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\Day2\\Day2\\Max3.cs",
+              "RelativeToolTip": "Day2\\Max3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:25:28.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaseEx.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\Day2\\Day2\\CaseEx.cs",
+              "RelativeDocumentMoniker": "Day2\\CaseEx.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\Day2\\Day2\\CaseEx.cs",
+              "RelativeToolTip": "Day2\\CaseEx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:18:27.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\Day2\\Day2\\Circle.cs",
+              "RelativeDocumentMoniker": "Day2\\Circle.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\Day2\\Day2\\Circle.cs",
+              "RelativeToolTip": "Day2\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:49:41.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day2",
+              "DocumentMoniker": "C:\\WIPRO\\wipro\\Day2\\Day2\\Day2.csproj",
+              "RelativeDocumentMoniker": "Day2\\Day2.csproj",
+              "ToolTip": "C:\\WIPRO\\wipro\\Day2\\Day2\\Day2.csproj",
+              "RelativeToolTip": "Day2\\Day2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T06:47:52.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CtoF.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\Day2\\Day2\\CtoF.cs",
+              "RelativeDocumentMoniker": "Day2\\CtoF.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\Day2\\Day2\\CtoF.cs",
+              "RelativeToolTip": "Day2\\CtoF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:37:21.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\Day2\\Day2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2\\Program.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\Day2\\Day2\\Program.cs",
+              "RelativeToolTip": "Day2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:13:52.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
