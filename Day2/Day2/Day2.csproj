@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Day2.Voting</StartupObject>
+    <StartupObject>Day2.ArrayForWhile</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,9 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayForWhile.cs" />
+    <Compile Include="Boxing.cs" />
     <Compile Include="CaseEx.cs" />
     <Compile Include="Circle.cs" />
     <Compile Include="CtoF.cs" />
+    <Compile Include="Employ.cs" />
+    <Compile Include="EmployBox.cs" />
     <Compile Include="Max3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
