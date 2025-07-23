@@ -1,0 +1,11 @@
+C:\WIPRO\Wipro\Calculation\Calculation\bin\Debug\Calculation.exe.config
+C:\WIPRO\Wipro\Calculation\Calculation\bin\Debug\Calculation.exe
+C:\WIPRO\Wipro\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\WIPRO\Wipro\Calculation\Calculation\obj\Debug\Calculation.csproj.AssemblyReference.cache
+C:\WIPRO\Wipro\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\WIPRO\Wipro\Calculation\Calculation\obj\Debug\Calculation.exe
+C:\WIPRO\Wipro\Calculation\Calculation\obj\Debug\Calculation.pdb
+C:\WIPRO\Wipro\Calculation\Calculation\bin\Debug\CalculationLibrary.dll
+C:\WIPRO\Wipro\Calculation\Calculation\bin\Debug\CalculationLibrary.pdb
+C:\WIPRO\Wipro\Calculation\Calculation\obj\Debug\Calculation.exe.config
+C:\WIPRO\Wipro\Calculation\Calculation\obj\Debug\Calculat.914393B0.Up2Date
