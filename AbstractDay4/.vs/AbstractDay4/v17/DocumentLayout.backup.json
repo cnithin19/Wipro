@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WIPRO\\Wipro\\AbstractDay4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AbstractDay4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\staticex234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\staticex234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\exceptionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\exceptionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\exceptionex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\exceptionex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\extentionmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\extentionmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\nithin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\nithin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\datatraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\datatraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\calculationextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\calculationextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\staticex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|solutionrelative:abstractday4\\staticex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3858728D-906A-4039-8332-80130A2CFB25}|AbstractDay4\\AbstractDay4.csproj|c:\\wipro\\wipro\\abstractday4\\abstractday4\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "staticex234.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\staticex234.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\staticex234.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\staticex234.cs",
+              "RelativeToolTip": "AbstractDay4\\staticex234.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:20:36.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionClass.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\ExceptionClass.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\ExceptionClass.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\ExceptionClass.cs",
+              "RelativeToolTip": "AbstractDay4\\ExceptionClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:58:02.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionEx.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\ExceptionEx.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\ExceptionEx.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\ExceptionEx.cs",
+              "RelativeToolTip": "AbstractDay4\\ExceptionEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:39:04.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculationExtention.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\CalculationExtention.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\CalculationExtention.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\CalculationExtention.cs",
+              "RelativeToolTip": "AbstractDay4\\CalculationExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:34:54.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtentionMain.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\ExtentionMain.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\ExtentionMain.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\ExtentionMain.cs",
+              "RelativeToolTip": "AbstractDay4\\ExtentionMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:29:12.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataTraining.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\DataTraining.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\DataTraining.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\DataTraining.cs",
+              "RelativeToolTip": "AbstractDay4\\DataTraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:09:34.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\Training.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\Training.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\Training.cs",
+              "RelativeToolTip": "AbstractDay4\\Training.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:05:29.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractDay4",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\AbstractDay4.csproj",
+              "RelativeDocumentMoniker": "AbstractDay4\\AbstractDay4.csproj",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\AbstractDay4.csproj",
+              "RelativeToolTip": "AbstractDay4\\AbstractDay4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T06:46:49.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nithin.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\Nithin.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\Nithin.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\Nithin.cs",
+              "RelativeToolTip": "AbstractDay4\\Nithin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:38:30.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\Program.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\Program.cs",
+              "RelativeToolTip": "AbstractDay4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:31:33.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\Employ.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\Employ.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\Employ.cs",
+              "RelativeToolTip": "AbstractDay4\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:32:04.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\Calculation.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\Calculation.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\Calculation.cs",
+              "RelativeToolTip": "AbstractDay4\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:28:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StaticEx1.cs",
+              "DocumentMoniker": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\StaticEx1.cs",
+              "RelativeDocumentMoniker": "AbstractDay4\\StaticEx1.cs",
+              "ToolTip": "C:\\WIPRO\\Wipro\\AbstractDay4\\AbstractDay4\\StaticEx1.cs",
+              "RelativeToolTip": "AbstractDay4\\StaticEx1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:24:48.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
