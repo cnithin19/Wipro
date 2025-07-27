@@ -1,0 +1,158 @@
+using System;
+
+class Vehicle
+{
+    // Define properties
+    // Complete Step 1:............
+    public string Make {get;set;}
+    public string Model {get;set;}
+    public int Year {get;set;}
+    // Define constructor
+    // Complete Step 2:............
+    public Vehicle(string make,string model,int year){
+        Make=make;
+        Model=model;
+        Year=year;
+    }
+
+    // Define virtual method
+    // Complete Step 3:............
+    public  virtual void GetInfo(){
+        Console.WriteLine($"Vehicle: {Year} {Make} {Model}");
+    }
+}
+
+class Car : Vehicle
+{
+    // Override GetInfo method
+    // Complete Step 4:............
+        public Car(string make, string model, int year) : base(make, model, year)
+    {
+    }
+
+  public override void GetInfo(){
+        Console.WriteLine($"Car: {Year} {Make} {Model}");
+    }
+}
+
+class Motorcycle : Vehicle
+{
+    // Override GetInfo method
+    // Complete Step 5:............
+        public Motorcycle(string make, string model, int year) : base(make, model, year)
+    {
+    }
+    
+     public override void  GetInfo(){
+         Console.WriteLine($"Motorcycle: {Year} {Make} {Model}");
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Prompt the user to enter vehicle details for Car
+        Console.WriteLine("Enter car make:");
+        // Complete Step 6:............
+        string make=Console.ReadLine();
+
+        Console.WriteLine("Enter car model:");
+        // Complete Step 7:............
+        string model=Console.ReadLine();
+
+        Console.WriteLine("Enter car year:");
+        // Complete Step 8:............
+        int year=Convert.ToInt32(Console.ReadLine());
+
+        // Prompt the user to enter vehicle details for Motorcycle
+        Console.WriteLine("Enter motorcycle make:");
+        // Complete Step 9:............
+        string make1=Console.ReadLine();
+
+        Console.WriteLine("Enter motorcycle model:");
+        // Complete Step 10:............
+        string model1=Console.ReadLine();
+
+        Console.WriteLine("Enter motorcycle year:");
+        // Complete Step 11:............
+        int year1=Convert.ToInt32(Console.ReadLine());
+
+        // Create instances of Car and Motorcycle
+        // Complete Step 12:............
+        Vehicle car=new Car(make,model,year);
+        Vehicle motor=new Motorcycle(make1,model1,year1);
+
+        car.GetInfo();
+        motor.GetInfo();
+
+
+
+        // Display vehicle information
+        // Complete Step 13:............
+    }
+}
+
+
+
+code 2 
+using System;
+
+class Account
+{
+    // Define properties
+    // Complete Step 1:............
+    protected string AccountNumber {get;set;}
+    protected double Balance{get;set;}
+    protected string OwnerName {get;set;}
+
+    public Account(string accno,double bal,string owner){
+        AccountNumber=accno;
+        Balance=bal;
+        OwnerName=owner;
+    }
+
+    // Define methods
+    // Complete Step 2:............
+    public virtual void deposit(double cash){
+        Balance+=cash;
+        Console.WriteLine($"Deposited: ${Balance:F2}");
+    }
+    public virtual void withdraw(double cash){
+        Balance-=cash;
+        Console.WriteLine($"Withdrew: ${cash:F2}");
+    }
+        public virtual void ckeckbal(){
+            Console.WriteLine($"Account Balance: ${Balance:F2}");
+    }
+
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Prompt the user to enter account details
+        Console.WriteLine("Enter account number:");
+        // Complete Step 3:............
+        string accno=Console.ReadLine();
+
+        Console.WriteLine("Enter owner name:");
+        // Complete Step 4:............
+        string owner=Console.ReadLine();
+
+        // Create an instance of the Account class
+        // Complete Step 5:............
+        double bal=0.00;
+
+        Account acc=new Account(accno,bal,owner);
+      //  double dep=Convert.ToDouble(Console.ReadLine());
+        acc.deposit(100);
+        // Perform transactions
+        // Complete Step 6:............
+        acc.ckeckbal();
+      //  double with=Convert.ToDouble(Console.ReadLine());
+        acc.withdraw(50);
+        acc.ckeckbal();
+    }
+}
