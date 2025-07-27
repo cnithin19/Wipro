@@ -1,0 +1,100 @@
+using System;
+
+class Student
+{
+    // Define properties
+    // Complete Step 1:............
+   public string Name,Grade;
+  public  int Age;
+
+    // Define constructor
+    // Complete Step 2:............
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Prompt the user to enter student details
+        Student s=new Student();
+        Console.WriteLine("Enter student's name:");
+        // Complete Step 3:............
+        s.Name=Console.ReadLine();
+
+        Console.WriteLine("Enter student's age:");
+        // Complete Step 4:............
+        s.Age=Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Enter student's grade:");
+        // Complete Step 5:............
+        s.Grade=Console.ReadLine();
+
+
+        // Create an instance of the Student class
+        // Complete Step 6:............
+
+        // Print student details
+        // Complete Step 7:............
+        Console.WriteLine("Student Name: "+s.Name);
+        Console.WriteLine("Student Age: "+s.Age);
+        Console.WriteLine("Student Grade: "+s.Grade);
+    }
+}
+
+
+code 2
+
+using System;
+
+class Book
+{
+    // Define properties
+    // Complete Step 1:............
+    public string Title;
+    public string Author ;
+    public int Year ;
+
+
+
+    // Define constructor
+    // Complete Step 2:............
+    public Book(string t,string a,int y){
+        this.Title=t;
+        this.Author=a;
+        this.Year=y;
+    }
+    public void show(string t,string a,int y){
+        Console.WriteLine("Book Title: "+t);
+        Console.WriteLine("Book Author: "+a);
+        Console.WriteLine("Book Year: "+y);
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+       
+        // Prompt the user to enter book details
+        Console.WriteLine("Enter book's title:");
+        // Complete Step 3:............
+        string Title=Console.ReadLine();
+
+        Console.WriteLine("Enter book's author:");
+        // Complete Step 4:............
+        string Author=Console.ReadLine();
+
+        Console.WriteLine("Enter book's year:");
+        int Year=Convert.ToInt32(Console.ReadLine());
+        // Complete Step 5:............
+
+        // Create an instance of the Book class
+        // Complete Step 6:............
+         Book B=new Book(Title,Author,Year);
+        B.show(Title,Author,Year);
+
+        // Print book details
+        // Complete Step 7:............
+
+    }
+}
