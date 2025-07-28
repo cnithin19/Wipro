@@ -1,0 +1,173 @@
+using System;
+using System.Collections.Generic;
+
+class Book
+{
+    // Define properties
+    // Complete Step 1:............
+    public string Title {get;set;}
+    public string Author {get;set;}
+    public string ISBN {get;set;}
+
+    // Define constructor
+    public Book(string t,string a,string i){
+        Title=t;
+        Author=a;
+        ISBN=i;
+    }
+    // Complete Step 2:............
+}
+
+class Library
+{
+    // Define collection to store books
+    // Complete Step 3:............
+    List<Book> lib=new List<Book>();
+
+    // Add method to add a book
+    // Complete Step 4:............
+    public void addbook(string t,string a,string i){
+        Book b1=new Book(t,a,i);
+        lib.Add(b1);
+        Console.WriteLine("Book added successfully.");
+    }
+
+    // Add method to remove a book by ISBN
+    // Complete Step 5:............
+    public void removebook(string isbn){
+       Book rb= lib.Find(b=>b.ISBN==isbn);
+       if(rb==null){
+           Console.WriteLine("Book not found.");
+       }else{
+            lib.Remove(rb);
+            Console.WriteLine("Book removed successfully.");
+       }
+
+    }
+
+    // Add method to list all books
+    // Complete Step 6:............
+    public void view(){
+         Console.WriteLine("Listing all books:"); 
+        foreach(Book b in lib){
+            Console.WriteLine($"Title: {b.Title}, Author: {b.Author}, ISBN: {b.ISBN}");
+        }
+    }
+
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Library library = new Library();
+        bool exit = false;
+
+        while (!exit)
+        {
+            Console.WriteLine("Choose an option:");
+            Console.WriteLine("1. Add Book");
+            Console.WriteLine("2. Remove Book");
+            Console.WriteLine("3. List Books");
+            Console.WriteLine("4. Exit");
+            int choice = Convert.ToInt32(Console.ReadLine());
+            string title,author,isbn;
+            switch (choice)
+            {
+                case 1:
+                    // Prompt for book details and add book
+                    // Complete Step 7:............
+                    {
+                        Console.WriteLine("Enter book title:");
+                       title= Console.ReadLine();
+                       Console.WriteLine("Enter book author:");
+                       author=Console.ReadLine();
+                       Console.WriteLine("Enter book ISBN:");
+                       isbn=Console.ReadLine();
+                       library.addbook(title,author,isbn);
+                    }
+                    break;
+                case 2:
+                    // Prompt for ISBN and remove book
+                    // Complete Step 8:............
+                    {
+                        Console.WriteLine("Enter ISBN of the book to remove:");
+                       string isb=Console.ReadLine();
+                        library.removebook(isb);
+                    }
+                    break;
+                case 3:
+                    // List all books
+                    library.view();
+                    // Complete Step 9:............
+                    break;
+                case 4:
+                    exit = true;
+                    break;
+                default:
+                    Console.WriteLine("Invalid choice. Please try again.");
+                    break;
+            }
+        }
+    }
+}
+
+
+Code 2
+
+using System;
+
+// Define PropertyDemo class
+public class PropertyDemo
+{
+    // Define properties
+    // Complete Step 1:............
+  //  private int pri =5;
+    
+    public PropertyDemo(){
+        int x=5;
+        Console.WriteLine(x);
+        Console.WriteLine("Private Value");
+    }
+}
+
+// Define StaticDemo class
+public class StaticDemo
+{
+    // Define static members
+    // Complete Step 2:............
+    public StaticDemo(){
+       int  n=10;
+        Console.WriteLine("Static Constructor");
+        Console.WriteLine(n);
+    }
+    
+
+}
+
+// Define MathHelper static class
+public static class MathHelper
+{
+    // Define static methods
+    // Complete Step 3:............
+    public static void methods(){
+        int x=15,y=5;
+        Console.WriteLine("Static Method");
+        Console.WriteLine(x);
+        Console.WriteLine(y);
+    }
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        // Demonstrate usage
+        // Complete Step 4:............
+        PropertyDemo p=new PropertyDemo();
+        StaticDemo s=new StaticDemo();
+        MathHelper.methods();
+
+
+    }
+}
