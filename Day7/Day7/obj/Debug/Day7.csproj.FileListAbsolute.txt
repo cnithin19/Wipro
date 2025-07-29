@@ -1,0 +1,2 @@
+C:\WIPRO\Wipro\Day7\Day7\obj\Debug\Day7.csproj.AssemblyReference.cache
+C:\WIPRO\Wipro\Day7\Day7\obj\Debug\Day7.csproj.CoreCompileInputs.cache
